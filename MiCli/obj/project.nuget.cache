@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HgM5brnEU3o=",
+  "dgSpecHash": "/irbhFDrGS0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\enman\\Downloads\\El Sistema de Bella Napoli\\MiCli\\MiCli.csproj",
+  "projectFilePath": "c:\\Users\\enman\\Downloads\\El Sistema de Bella Napoli\\MiCli\\MiCli.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enman\\.nuget\\packages\\system.commandline\\2.0.2\\system.commandline.2.0.2.nupkg.sha512"
   ],

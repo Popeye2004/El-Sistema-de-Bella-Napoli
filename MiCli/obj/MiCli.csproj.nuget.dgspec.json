@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enman\\Downloads\\El Sistema de Bella Napoli\\MiCli\\MiCli.csproj": {}
+    "c:\\Users\\enman\\Downloads\\El Sistema de Bella Napoli\\MiCli\\MiCli.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enman\\Downloads\\El Sistema de Bella Napoli\\MiCli\\MiCli.csproj": {
+    "c:\\Users\\enman\\Downloads\\El Sistema de Bella Napoli\\MiCli\\MiCli.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enman\\Downloads\\El Sistema de Bella Napoli\\MiCli\\MiCli.csproj",
+        "projectUniqueName": "c:\\Users\\enman\\Downloads\\El Sistema de Bella Napoli\\MiCli\\MiCli.csproj",
         "projectName": "MiCli",
-        "projectPath": "C:\\Users\\enman\\Downloads\\El Sistema de Bella Napoli\\MiCli\\MiCli.csproj",
+        "projectPath": "c:\\Users\\enman\\Downloads\\El Sistema de Bella Napoli\\MiCli\\MiCli.csproj",
         "packagesPath": "C:\\Users\\enman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enman\\Downloads\\El Sistema de Bella Napoli\\MiCli\\obj\\",
+        "outputPath": "c:\\Users\\enman\\Downloads\\El Sistema de Bella Napoli\\MiCli\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

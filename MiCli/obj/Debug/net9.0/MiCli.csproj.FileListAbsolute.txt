@@ -28,3 +28,4 @@ C:\Users\enman\Downloads\El Sistema de Bella Napoli\MiCli\bin\Debug\net9.0\zh-Ha
 C:\Users\enman\Downloads\El Sistema de Bella Napoli\MiCli\bin\Debug\net9.0\zh-Hant\System.CommandLine.resources.dll
 C:\Users\enman\Downloads\El Sistema de Bella Napoli\MiCli\obj\Debug\net9.0\MiCli.csproj.AssemblyReference.cache
 C:\Users\enman\Downloads\El Sistema de Bella Napoli\MiCli\obj\Debug\net9.0\MiCli.csproj.Up2Date
+c:\Users\enman\Downloads\El Sistema de Bella Napoli\MiCli\obj\Debug\net9.0\MiCli.sourcelink.json
